@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 Projetos Destacados
+## 📌 Projetos
 
 - 📊 **[Análise Preditiva de Imóveis](https://github.com/guibianck/Projeto-ML)**  
   Utilizando dados de habitação para análise preditiva com Machine Learning(Em desenvolvimento)
