@@ -23,12 +23,19 @@
 
 - 📜 **AWS Cloud Practitioner**
 - 📜 **Associate Data Modeling**
+
+---
+
+## 📌 Projetos Destacados
+
+- 📊 **[Análise Preditiva de Imóveis](https://github.com/guibianck/Projeto-ML)**  
+  Utilizando dados de habitação para análise preditiva com Machine Learning.
 ---
 
 ## 📬 Entre em Contato
 
 💌 **E-mail:** guiguibianck2@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/guilherme-bianck/
+🔗 **LinkedIn:** [Guilherme Bianck](https://www.linkedin.com/in/guilherme-bianck/)
 
 ---
 
