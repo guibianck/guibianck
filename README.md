@@ -34,8 +34,8 @@
 
 ## 📬 Entre em Contato
 
-💌 **E-mail:** guiguibianck2@gmail.com  
-🔗 **LinkedIn:** [Guilherme Bianck](https://www.linkedin.com/in/guilherme-bianck/)
+- 💌 **E-mail:** guiguibianck2@gmail.com  
+- 🔗 **LinkedIn:** [Guilherme Bianck](https://www.linkedin.com/in/guilherme-bianck/)
 
 ---
 
