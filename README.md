@@ -29,7 +29,7 @@
 ## 📌 Projetos Destacados
 
 - 📊 **[Análise Preditiva de Imóveis](https://github.com/guibianck/Projeto-ML)**  
-  Utilizando dados de habitação para análise preditiva com Machine Learning.
+  Utilizando dados de habitação para análise preditiva com Machine Learning(Em desenvolvimento)
 ---
 
 ## 📬 Entre em Contato
